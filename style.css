@@ -1,0 +1,60 @@
+.text{
+    background-color: grey;
+    margin: 0;
+}
+
+.background{
+background-color: rgb(255, 255, 255);
+margin: 0;
+}
+
+.text2{
+    color: black;
+}
+
+.right{
+    text-align: right;
+}   
+
+.margin{
+    margin: 0;
+}
+
+.twhite{
+    color: white;
+}
+
+.size{
+    font-size: 35px;
+}
+
+.decoration{
+    text-decoration: none;
+    color: black;
+}
+ 
+.vl {
+    border-left: 750px solid green;
+    height: 1000px;
+   }
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+.pustoy {
+    color: rgb(0, 0, 0)
+}
+
+.text3{
+    background-color: rgb(189, 189, 189);
+}
+
+body{
+    background-color: white; margin: 0;
+}
+.decoration:hover{
+    color: blue;
+}
+
